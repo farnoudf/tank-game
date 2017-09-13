@@ -5,6 +5,5 @@ Clone the repository and navigate to the newly created directory in your termina
 
 ```
 javac server/*
-
 java server.Main
 ```
